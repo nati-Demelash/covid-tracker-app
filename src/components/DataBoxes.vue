@@ -11,7 +11,6 @@
         {{ stat.TotalConfirmed }}
       </div>
     </div>
-
     <div class="deaths">
       <h3>Deaths</h3>
       <div>
